@@ -1,5 +1,5 @@
 # Vue 3 Typescript Cookbook
 
-A complete guide of using TypeScript in Vue 3.
+A complete guide to use TypeScript in Vue 3.
 
 WIP.
