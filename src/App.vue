@@ -4,6 +4,7 @@
   <TemplateRefSetup />
   <Computed />
   <ComputedSetAndGet />
+  <Emit />
 </template>
 
 <script setup lang="ts">
@@ -12,6 +13,7 @@ import TemplateRefDefine from "./components/basics/TemplateRefDefine.vue";
 import TemplateRefSetup from "./components/basics/TemplateRefSetup.vue";
 import Computed from "./components/basics/Computed.vue";
 import ComputedSetAndGet from "./components/basics/ComputedSetAndGet.vue";
+import Emit from "./components/basics/Emit.vue";
 </script>
 
 <style>

@@ -56,4 +56,9 @@ const plusTwo: WritableComputedRef<number> = computed({
     count.value = val - 2;
   },
 });
+
+plusOne.value = 1;
+console.log(count.value); // 0
+plusOne.value = 5;
+console.log(count.value); // 3
 ```
